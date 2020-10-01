@@ -43,6 +43,11 @@
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
+#### Name: [APOORVA SHARMA](https://github.com/okatticus)
+- Place: Himachal Pradesh,India
+- Bio: A student happy to write code and poetry.
+- GitHub: [Apoorva Sharma](https://github.com/okatticus)
+
 #### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
